@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/yng-shp/static/css/main.36832f07.css",
+    "main.js": "/yng-shp/static/js/main.892cd356.js",
+    "static/media/jeans-jacket.jpg": "/yng-shp/static/media/jeans-jacket.cdb2a5699368dd20a62e.jpg",
+    "static/media/camera.jpg": "/yng-shp/static/media/camera.cb793d3c470d808f0350.jpg",
+    "static/media/belt.jpg": "/yng-shp/static/media/belt.b8cd8ccc7ee249f87927.jpg",
+    "static/media/iphone4.jpg": "/yng-shp/static/media/iphone4.0ed1a036914cc30038e6.jpg",
+    "static/media/office-chair.jpg": "/yng-shp/static/media/office-chair.b4cbdd587efe4f7949c6.jpg",
+    "static/media/dembell.jpg": "/yng-shp/static/media/dembell.e55673cd51c316360a45.jpg",
+    "static/media/laptop.jpg": "/yng-shp/static/media/laptop.2ca5e170f236089ff6a5.jpg",
+    "static/media/television.jpg": "/yng-shp/static/media/television.fe3ac832f7f74d1b9985.jpg",
+    "index.html": "/yng-shp/index.html",
+    "main.36832f07.css.map": "/yng-shp/static/css/main.36832f07.css.map",
+    "main.892cd356.js.map": "/yng-shp/static/js/main.892cd356.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.36832f07.css",
+    "static/js/main.892cd356.js"
+  ]
+}
